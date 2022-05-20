@@ -1,5 +1,5 @@
-# UEMF-Library
-Le projet UEMF Library Management System est une application Web développée sur la plate-forme javascript .  Il s'agit d'un  projet de niveau simple et basique à
+# Library
+ Library Management System est une application Web développée sur la plate-forme javascript .  Il s'agit d'un  projet de niveau simple et basique à
 des fins d'apprentissage.
 Cette application Web est développé à l'aide de Html CSS JavaScript et la base de données est automatiquement importée.
 
@@ -30,7 +30,7 @@ Cette application Web est développé à l'aide de Html CSS JavaScript et la bas
   />
     
     <link rel="stylesheet" href="style.css" />
-    <title>UEMF library</title>
+    <title>library</title>
 
   </head>
   <body style="background-image: url('');
